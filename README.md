@@ -21,10 +21,10 @@
 <br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=durvesh7k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 </div>
 
 <div align="center">
-<br/>
 [![](https://visitcount.itsvg.in/api?id=durvesh7k&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
