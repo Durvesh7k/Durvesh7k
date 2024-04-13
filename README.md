@@ -1,7 +1,10 @@
 <div align="center">
 
 # 💫 About Me:
-I am a web developer with a passion for exploring the latest technologies and pushing boundaries in the digital space. My background in web development has given me a strong foundation in programming languages like JavaScript, HTML, and CSS Libraries and Frameworks like React and Next.
+<div align = "left">
+  I am a web developer with a passion for exploring the latest technologies and pushing boundaries in the digital space. My background in web development has given me a strong foundation 
+  in programming languages like JavaScript, HTML, and CSS Libraries and Frameworks like React and Next.  
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Durvesh7k) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/durvesh.chopade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durvesh-chopade-44bb57202) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ChopadeDurvesh) 
